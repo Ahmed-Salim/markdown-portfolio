@@ -1,0 +1,2 @@
+- Study
+- Play League of Legends
