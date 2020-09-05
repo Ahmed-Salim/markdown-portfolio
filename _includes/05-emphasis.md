@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Im a **Web Developer** with *1+* years of experience. My areas of experience are **HTML, CSS, JavaScript, PHP, WordPress, Bootstrap and MySQL**.
